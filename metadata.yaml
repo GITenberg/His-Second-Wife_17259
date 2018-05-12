@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5500
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Poole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17259#His-Second-Wife
 gutenberg_issued: '2005-12-09'
 gutenberg_type: Text
 identifiers:
